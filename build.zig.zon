@@ -1,0 +1,9 @@
+.{
+    .name = "resfs",
+    .version = "0.0.0",
+    .paths = .{
+        "src",
+        "build.zig.zon",
+        "build.zig",
+    },
+}
